@@ -3,7 +3,7 @@
 
 [Статистика выполнения работ **ФГиИБ ПИ 1-1б**](https://docs.google.com/spreadsheets/d/1pyurkMjftlyoCm9ouYOaCznE4KsYFb3fXyPKyGOidkE/edit?usp=sharing)  
 
-
+[Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
 <div id="header" align="center">
   <img src="https://i.stack.imgur.com/t4m8n.gif" width="125"/>
