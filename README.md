@@ -1,7 +1,7 @@
 # Прикладная информатика I семестр
 В данном репозитории представлен перечень материалов по предмету **"Программирование на Python"** для студентов группы **ФГиИБ ПИ 1-1б**.
 
-[Статистика выполнения работ **ФГиИБ**](https://docs.google.com/spreadsheets/d/1pyurkMjftlyoCm9ouYOaCznE4KsYFb3fXyPKyGOidkE/edit?usp=sharing)  
+[Статистика выполнения работ **ФГиИБ ПИ 1-1б**](https://docs.google.com/spreadsheets/d/1pyurkMjftlyoCm9ouYOaCznE4KsYFb3fXyPKyGOidkE/edit?usp=sharing)  
 
 
 
