@@ -14,9 +14,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRibWc2bmY2YWZncGd3cWY2YmoxYmNtNmJnbXphZjJsN2xpMjZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOR94QhwxXdmGJIVEg/giphy.gif" width="150"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="125"/>
 </div>
-  <div id="header" align="center">
-  <img src=" width="125"/>
-
 
 
 ###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
