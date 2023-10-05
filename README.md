@@ -7,9 +7,9 @@
 
 [**Дистрибутивы**](https://cloud.mail.ru/public/BXH2/4NZCkgzFS)
 
-Структура папок:
-![image](https://github.com/Alexandre77777/python_programming/assets/86152225/b694b141-5ea1-42f8-bd4b-98d9ac1b760c)
+Структура папок в Вашем репозитории:
 
+<img src="https://github.com/Alexandre77777/python_programming/assets/86152225/b694b141-5ea1-42f8-bd4b-98d9ac1b760c" width="350">
 
 <div id="header" align="center">
   <img src="https://i.stack.imgur.com/t4m8n.gif" width="125"/>
