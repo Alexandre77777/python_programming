@@ -5,6 +5,8 @@
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
+[**Дистрибутивы**](https://cloud.mail.ru/public/BXH2/4NZCkgzFS)
+
 Структура папок:
 ![image](https://github.com/Alexandre77777/python_programming/assets/86152225/b694b141-5ea1-42f8-bd4b-98d9ac1b760c)
 
