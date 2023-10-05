@@ -12,9 +12,9 @@
 <img src="https://github.com/Alexandre77777/python_programming/assets/86152225/b694b141-5ea1-42f8-bd4b-98d9ac1b760c" width="350">
 </div>
 <div id="header" align="center">
-  <img src="https://i.stack.imgur.com/t4m8n.gif" width="125"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRibWc2bmY2YWZncGd3cWY2YmoxYmNtNmJnbXphZjJsN2xpMjZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOR94QhwxXdmGJIVEg/giphy.gif" width="150"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="125"/>
+  <img src="https://i.stack.imgur.com/t4m8n.gif" width="150"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRibWc2bmY2YWZncGd3cWY2YmoxYmNtNmJnbXphZjJsN2xpMjZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOR94QhwxXdmGJIVEg/giphy.gif" width="175"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="150"/>
 </div>
 
 
