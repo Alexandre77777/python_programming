@@ -13,9 +13,9 @@
 | 3  |      16.09.2025 -  17.09.2025            | [Раздел №4. Структуры данных в Python](https://colab.research.google.com/drive/1HEXJphOlMmsaMtLUu3L45YAvGgmbays-?usp=sharing) |  | 15.10.2025
 |    |            | [Раздел №5. Условные операторы if, elif, else и match case в Python](https://colab.research.google.com/drive/1RA7k5V7mPDwHPjt2EJShChrMre5tGyEW?usp=sharing) | [Модуль №4. Ветвление](https://colab.research.google.com/github/Alexandre77777/python_programming/blob/main/1.%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%964.%20%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.ipynb) | 15.10.2025
 |    |      23.09.2025 -  24.09.2025            | [Раздел №6. Циклы в Python: for и while](https://colab.research.google.com/drive/1-rsEzbdP0YDTwI8qcS3ldRHVXQnE8AH5?usp=sharing) | [Модуль №5. Цикл While](https://u.to/Z1tcIg)<br> [Модуль №6. Последовательности](https://u.to/YFtcIg) <br> [Модуль №7. Словари](https://u.to/XVtcIg)| 15.10.2025
-|    |      30.09.2025 -  01.10.2025            | [Раздел №7. Функции в Python](https://u.to/XFtcIg) |  [Практическая работа №1. Функции и процедуры. Моделирование процессов](https://u.to/V1tcIg)  <br><br> [Дополнительное задание. Функции высшего порядка. Анонимные функции](https://u.to/PFtcIg)                                              | 07.10.2025 <br><br><br> 15.10.2025
+|    |      30.09.2025 -  01.10.2025            | [Раздел №7. Функции в Python](https://u.to/XFtcIg) |  [Практическая работа №1. Функции и процедуры. Моделирование процессов](https://u.to/V1tcIg)  <br><br> [Дополнительное задание №1. Функции высшего порядка. Анонимные функции](https://u.to/PFtcIg)                                              | 07.10.2025 <br><br><br> 15.10.2025
 |    |            | [Раздел №8. Области видимости и замыкания](https://colab.research.google.com/drive/1dBASnRdhdWvPgi0uwOCeahbDa5pnfUiw?usp=sharing) |                                                |
-|    |      07.10.2025 -  08.10.2025            | [Раздел №9. Декораторы в Python](https://colab.research.google.com/drive/1mLXN9eyDSjtwXwrWQHIof2UdJ4UO_whg?usp=sharing) |[Дополнительное задание. Замыкания. Декораторы. Итераторы. Генераторы](https://u.to/NFtcIg)| 15.10.2025
+|    |      07.10.2025 -  08.10.2025            | [Раздел №9. Декораторы в Python](https://colab.research.google.com/drive/1mLXN9eyDSjtwXwrWQHIof2UdJ4UO_whg?usp=sharing) |[Дополнительное задание №2. Замыкания. Декораторы. Итераторы. Генераторы](https://u.to/NFtcIg)| 15.10.2025
 |   |            | [Раздел №10. Итераторы и генераторы в Python](https://colab.research.google.com/drive/1uHK8vEIo65POYQqfd0ekS3JaCgbTij5k?usp=sharing) |                                                |
 |   |      14.10.2025 -  15.10.2025            | [Раздел №11. Обработка исключений в Python (try, except, else, finally)](https://colab.research.google.com/drive/1MhHwyWWyGbSbsW800DvikVWr8DWSB6VP?usp=sharing) |                                                |
 |   |            | [Раздел №12. Работа с текстовыми файлами в Python](https://colab.research.google.com/drive/1ggWVNWAuv4C-6tuB_YtXHyHR8d3nsjJs?usp=sharing) |                                                |
@@ -31,14 +31,31 @@
 [**Дистрибутивы**](https://cloud.mail.ru/public/BXH2/4NZCkgzFS)
 
 Структура папок в Вашем репозитории:
-<div id="header" align="center">
-<img src="https://github.com/Alexandre77777/python_programming/assets/86152225/b694b141-5ea1-42f8-bd4b-98d9ac1b760c" width="350">
-</div>
+```
+University/
+├── Tasks/
+│   ├── Module_1.ipynb
+│   ├── Module_2.ipynb
+│   ├── Module_N.ipynb
+│   ├── Ex_task_1.ipynb
+│   ├── Ex_task_2.ipynb
+│   └── Ex_task_N.ipynb
+└── Practice/
+    ├── Practice_1.ipynb
+    ├── Practice_2.ipynb
+    └── Practice_N.ipynb
+```
 <div id="header" align="center">
   <img src="https://i.stack.imgur.com/t4m8n.gif" width="150"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRibWc2bmY2YWZncGd3cWY2YmoxYmNtNmJnbXphZjJsN2xpMjZ6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOR94QhwxXdmGJIVEg/giphy.gif" width="175"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="150"/>
 </div>
+
+
+
+
+
+
 
 
 ###### Адрес электронной почты преподавателя: sa.32@mail.ru
