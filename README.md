@@ -26,7 +26,7 @@
 | 7 |      14.10.2025 -  15.10.2025            | [Раздел №11. Обработка исключений в Python (try, except, else, finally)](https://u.to/8VtcIg) |[Дополнительное задание №3. Обработка исключений и работа с текстовыми файлами](https://u.to/D3xdIg)| 21.10.2025
 | |            | [Раздел №12. Работа с текстовыми файлами в Python](https://u.to/epZdIg) |                                                |
 | 8 |      21.10.2025 -  22.10.2025            | [Раздел №13. Модули и пакеты в Python](https://u.to/91tcIg) |                                                |
-| 9 |      28.10.2025 -  29.10.2025            | |[Практическая работа №3. Игра "Поле чудес"](https://colab.research.google.com/drive/1_A4ht5erOuqIwZNcdiwaMOl-XHvHqcxm?usp=sharing)| 04.11.2025
+| 9 |      28.10.2025 -  29.10.2025            | [Код пакета geometry с пары](https://u.to/IZIYIQ)<br><br> [**Задание на пару:** Практическая работа №2. Исследование Python-пакета - от теоретических основ до публикации в GitHub](https://u.to/npdfIg)|[Практическая работа №3. Игра "Поле чудес"](https://colab.research.google.com/drive/1_A4ht5erOuqIwZNcdiwaMOl-XHvHqcxm?usp=sharing)| 04.11.2025
 |   |            | [Раздел №14. Работа с GIT в редакторе кода](https://u.to/_FtcIg) |                                                |
 |   |            | [Раздел №15. Объектно-ориентированное программирование в Python](https://u.to/SG35IA) |                                                |
 |   |            | [Раздел №16. Работа с операционной системой в Python](https://u.to/_ltcIg) |                                                |
