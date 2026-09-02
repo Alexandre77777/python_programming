@@ -7,8 +7,8 @@
 Допуск к зачету предоставляется только при наличии отметки ![](https://img.shields.io/badge/+++-success) по всем заданиям.
 
 
-[Статистика выполнения работ **ФГиИБ ПИ 1-1б**](https://u.to/0FtcIg)  
-[Статистика выполнения работ **ФГиИБ ПИ 1-2б**](https://u.to/0ltcIg)  
+[Статистика выполнения работ **ФГиИБ ПИ 1-1б**](https://docs.google.com/spreadsheets/d/1kfSN3HPbr5WVUwPpdmM8uEllolQ-XZu3TIdzbKhEQ_E/edit?gid=1016233301#gid=1016233301)  
+[Статистика выполнения работ **ФГиИБ ПИ 1-2б**](https://docs.google.com/spreadsheets/d/1kfSN3HPbr5WVUwPpdmM8uEllolQ-XZu3TIdzbKhEQ_E/edit?gid=1533910966#gid=1533910966)  
 
 
 | №   | Дата       | Материалы с пары                     | Домашняя работа                  | Срок сдачи|
